@@ -10,7 +10,7 @@ public class stringReplace {
         System.out.println("yeni metin  : "+yeniMetin);
         System.out.println(metin1.length());
         System.out.println(metin1.trim().length());
-        System.out.println(metin1.concat("41 kere maşallah "));
+        System.out.println(metin1.concat("41  kere maşallah "));
 
 
 
