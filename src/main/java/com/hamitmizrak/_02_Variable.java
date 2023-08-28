@@ -7,6 +7,7 @@ public class _02_Variable {
         //Scanner scan=new Scanner(System.in);
 
 
+
     }
 
 }
