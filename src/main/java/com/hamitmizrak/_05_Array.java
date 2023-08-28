@@ -22,7 +22,7 @@ public class _05_Array {
         }
         System.out.println("Dizideki Elemanların Toplamı: " + toplam);
 
-        // Dizideki en büyük elemanı bulalım
+        // Dizideki en büyük elemanı  bulalım
         int max = dizi[0];
         for (int i = 1; i < dizi.length; i++) {
             if (dizi[i] > max) {
